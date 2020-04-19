@@ -114,11 +114,11 @@ a img {
 
 #sobre, #saiba_mais, #contato {
     width: 100%; 
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 70px;
 }
 
-#sobre, #contato{
+#sobre, #saiba_mais{
     padding: 50px 0px;
     background-color: #f4f8ff;
 }
@@ -141,6 +141,11 @@ a img {
     margin-right: 10px;
 }
 
+#saiba_mais {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 97% !important; 
+}
 
 #rodape {
     padding: 2%;
